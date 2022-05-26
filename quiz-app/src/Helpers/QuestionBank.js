@@ -1,0 +1,42 @@
+export const Questions=[
+    {
+        prompt: "What is 1+3 ?",
+        optionA: "24" ,
+        optionB: "21" ,
+        optionB: "4" ,
+        optionB: "40" ,
+        answer: "C",
+    },
+    {
+        prompt: "What is a streaming platform ?",
+        optionA: "twitter" ,
+        optionB: "twitch" ,
+        optionB: "google" ,
+        optionB: "robinhood" ,
+        answer: "B",
+    },
+    {
+        prompt: "What is 90*90 ?",
+        optionA: "8100" ,
+        optionB: "810" ,
+        optionB: "81" ,
+        optionB: "40" ,
+        answer: "B",
+    },
+    {
+        prompt: "What is the factorial of 5 ?",
+        optionA: "60" ,
+        optionB: "1200" ,
+        optionB: "120" ,
+        optionB: "12" ,
+        answer: "C",
+    },
+    {
+        prompt: "What is not a programming language ?",
+        optionA: "python" ,
+        optionB: "javascript" ,
+        optionB: "MC-30" ,
+        optionB: "java" ,
+        answer: "C",
+    },
+]
